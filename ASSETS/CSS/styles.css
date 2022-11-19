@@ -1,0 +1,55 @@
+section.about{
+    background-image: url(../IMGS/hermoso-fondo-azul-claro-vintage-decoracion-pintura-pared-telon-fondo_1962-1376.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+
+
+.navbar.navbar-expand-lg.bg-dark{
+    background-color: rgb(188, 188, 219) !important;
+}
+
+
+i.fa-brands.fa-instagram.fa-2xl,
+i.fa-brands.fa-linkedin.fa-2xl,
+i.fa-brands.fa-twitter.fa-2xl,
+i.fa-solid.fa-user.fa-2xl{   
+    color:rgb(17, 19, 19);
+    }
+
+i.fa-brands.fa-instagram.fa-2xl:hover{   
+color:rgb(163, 50, 135);
+}
+
+i.fa-brands.fa-linkedin.fa-2xl:hover{   
+    color:rgb(20, 29, 160);
+}
+
+i.fa-brands.fa-twitter.fa-2xl:hover{   
+    color:rgb(20, 29, 160);
+}
+
+
+i.fa-solid.fa-user.fa-2xl:hover{ 
+    color:rgb(78, 6, 6);
+}
+
+i.fa-solid.fa-user-lock.fa-2xl:hover{ 
+    color:rgb(78, 6, 6);
+}
+
+.list-group {
+   --bs-list-group-bg: transparent;
+}
+
+section.about{
+    margin-top:12.1rem;
+}
+
+section.admin{
+    margin-top: 12.1rem;
+}
+
+
